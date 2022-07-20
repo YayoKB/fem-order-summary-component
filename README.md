@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I tried to use more variables, such as for colours and font weights. ! I did learn recently that setting `line:height: 0` could fix some padding issues.
+I tried to use more variables, such as for colours and font weights. I did learn recently that setting `line-height: 0` could fix some padding issues.
 
 ## Author
 
